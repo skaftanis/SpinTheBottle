@@ -36,7 +36,7 @@ int DS_pin = 8;
 int STCP_pin = 9;
 int SHCP_pin = 10;
 
-const int buttonPin = 12z;
+const int buttonPin = 12;
 int buttonState = 0;
 
 int luck[] = {0, 1};
